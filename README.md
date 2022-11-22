@@ -22,12 +22,12 @@ My education: Programming in computer systems
 
 ## My tech stack
 
-![](https://img.shields.io/badge/.net-512BD4?style=flat&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/c%23-512BD4?style=flat&logo=c%20sharp&logoColor=white)
-![](https://img.shields.io/badge/asp%20.net%20core-512BD4?style=flat&logoColor=white)
-![](https://img.shields.io/badge/ef%20core-512BD4?style=flat&logoColor=white)
-![](https://img.shields.io/badge/ms%20sql%20server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![](https://img.shields.io/badge/postgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/angular-DD0031?style=flat&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/docker-316192?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=c%20sharp&logoColor=white)
+![](https://img.shields.io/badge/ASP%20.NET%20Core-512BD4?style=flat&logoColor=white)
+![](https://img.shields.io/badge/EF%20Core-512BD4?style=flat&logoColor=white)
+![](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Docker-316192?style=flat&logo=docker&logoColor=white)
