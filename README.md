@@ -23,9 +23,9 @@ My education: Programming in computer systems
 ## My tech stack
 
 ![](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/c%20sharp-512BD4?style=for-the-badge&logo=c%20sharp&logoColor=white)
+![](https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=c%20sharp&logoColor=white)
 ![](https://img.shields.io/badge/asp%20.net%20core-512BD4?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/entity%20framework%20core-512BD4?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/ef%20core-512BD4?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/ms%20sql%20server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![](https://img.shields.io/badge/postgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
