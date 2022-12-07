@@ -26,6 +26,7 @@ My education: Programming in computer systems
 ![](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=c%20sharp&logoColor=white)
 ![](https://img.shields.io/badge/ASP%20.NET%20Core-512BD4?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/EF%20Core-512BD4?style=flat&logoColor=white)
+![](https://img.shields.io/badge/SQL-41454A?style=flat&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
