@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a .NET Developer, currently working at [AUXO](https://www.auxo-it.ru/).
+I'm a .NET Developer, currently working at [Philip Morris](https://www.pmi.com/markets/russia/ru/about-us/about-us-russia).
 
 How to contact me: Just send email to [nbiryukov.dev@gmail.com](mailto:nbiryukov.dev@gmail.com)
 
